@@ -1,0 +1,2 @@
+9/17/2019: Detected error with files. Despite PeMS labelling data folder as 2013, some of the data entries at in 2011
+Created a table out of the data entries. https://public.tableau.com/profile/tony7333#!/vizhome/FastTrakDraft1/Sheet1?publish=yes 
