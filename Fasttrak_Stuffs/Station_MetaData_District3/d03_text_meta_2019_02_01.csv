@@ -1,4 +1,4 @@
-﻿ID,Fwy,Dir,District,County,City,State_PM,Abs_PM,Latitude,Longitude,Length,Type,Lanes,Name,User_ID_1,User_ID_2,User_ID_3,User_ID_4
+ID,Fwy,Dir,District,County,City,State_PM,Abs_PM,Latitude,Longitude,Length,Type,Lanes,Name,User_ID_1,User_ID_2,User_ID_3,User_ID_4
 311831,5,S,3,67,,10.896,506.189,38.409782,-121.48412,,OR,1,Elk Grove Blvd,1,,,
 311832,5,S,3,67,,10.896,506.189,38.409782,-121.48412,,FR,1,Elk Grove Blvd,1,,,
 311844,5,N,3,67,,11.08,506.373,38.412421,-121.484289,,OR,3,WB Elk Grove Blvd,1,,,
